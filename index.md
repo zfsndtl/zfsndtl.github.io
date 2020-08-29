@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# 联系方式
 
-You can use the [editor on GitHub](https://github.com/zfsndtl/zfsndtl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Email：1719528017@qq.com
+- 微信号：****
+- QQ：1719528017
+- git主页：https://zfsndtl.github.io/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 个人信息
 
-### Markdown
+ - 追风少年/男/1993 
+ - 本科/西安工程大学
+ - 工作年限：5年
+ - 期望职位：Java开发工程师，软件开发工程师
+ - 期望薪资：待补充
+ - 期望城市：待补充
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# 工作经历
 
-# Header 1
-## Header 2
-### Header 3
+待补充
+  
+  
 
-- Bulleted
-- List
+## 开源项目
 
-1. Numbered
-2. List
+  待补充
 
-**Bold** and _Italic_ and `Code` text
+## 技术文章
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zfsndtl/zfsndtl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+待补充
+    
+    
+# 技能清单
+待补充
+      
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+      
