@@ -13,7 +13,7 @@
  - 工作年限：6年
  - 期望职位：Java开发工程师，软件开发工程师
  - 期望薪资：面议
- - 期望城市：西安，杭州，北京
+ - 期望城市：西安，杭州
 
 
 # 工作经历
@@ -64,7 +64,7 @@
 
 ## 开源项目
 
-  postgre,druid,xtreemfs,pg jdbc,sharding jdbc,mycat,mqtt,pg_autofailover,citus,tpcc
+  postgre sql,druid,xtreemfs,pg jdbc,sharding jdbc,mycat,mqtt,pg_autofailover,citus,tpcc
 
 ## 技术文章
 
