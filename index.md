@@ -1,9 +1,9 @@
-# welcome to my home
+# 有个小孩叫小杜，welcome to my home 
 # 联系方式
 
-- Email：1719528017@qq.com
-- 微信号：thsfzs
-- QQ：1719528017
+- Email：17195****@qq.com
+- 微信号：****
+- QQ：17195*****
 - git主页：https://zfsndtl.github.io/
 
 # 个人信息
