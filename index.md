@@ -68,7 +68,7 @@
 
 ## 技术文章
 
-1. [文档主页](https://github.com/zfsndtl/studydoc/blob/main/README.md)
+1. [文档主页](https://github.com/zfsndtl/studydoc/)
 很多，慢慢补充
 
 # 自我评价
