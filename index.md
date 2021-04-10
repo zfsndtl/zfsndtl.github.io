@@ -65,7 +65,7 @@
 
 ## 开源项目
 
-  postgre/druid/xtreemfs/sharding jdbc/mycat/mqtt/pg_autofailover/citus
+  postgre,druid,xtreemfs,pg jdbc,sharding jdbc,mycat,mqtt,pg_autofailover,citus,tpcc
 
 ## 技术文章
 
@@ -79,7 +79,10 @@
 5. 遇到困难很执着，遇到编程上的难题，愿意花时间去解决
     
 # 技能清单
-postgre/sharding jdbc/druid/spring boot/spring mvc/redis/分布式事务/jdbc 源码/数据库高可用/敏捷开发工具/mqtt/linux调优/tpcc
+- 数据库相关：postgre,pgjdbc,sharding jdbc,druid,linux调优,tpcc,分布式事务  
+- 数据库高可用：pgpool,pg_autofailover,keepalived(VIP) 
+- 数据库集群：citus  
+- 业务框架：spring boot,spring cloud,spring mvc,redis,敏捷开发工具,mqtt,docker,shiro
       
 ---      
 # 致谢
