@@ -69,6 +69,9 @@
 ## 技术文章
 
 1. [文档主页](https://github.com/zfsndtl/studydoc/)
+ - 1.1 [postgre的世界](https://github.com/zfsndtl/studydoc/tree/main/pg)
+ - 1.2 [java的世界](https://github.com/zfsndtl/studydoc/tree/main/java)
+    
 很多，慢慢补充
 
 # 自我评价
