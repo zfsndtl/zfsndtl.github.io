@@ -28,21 +28,21 @@
 1. 2014-2017 年，北大方正国际研发中心产品三部。期间在老师和同事们的合作下，随项目组一起做了几个大项目。  
 - **方正编目与服务系统**
   主要做了用户管理的一些东西。  
-  相关技术： java springMVC,easyUi，javaScript。  
+  **相关技术**： java springMVC,easyUi，javaScript。  
 - **方正即时通讯云平台后台管理系统**：
 期间主要做了即时通讯云平台的用户管理，好友管理，好友组管理，后期开发补充的系统消息等等功能。  
-相关技术：java springMVC，bootstrap，maven等  
+**相关技术**：mqtt,java springMVC，bootstrap，maven等  
 - **即时通讯云平台客户端 sdk 编写及PC桌面客户端，Android移动客户端部分功能开发**。  
-相关技术：java FX,百度地图api等  
+**相关技术**：java FX,百度地图api等  
 - **即时通讯云平台客户端 sdk api 文档编写及 sdk 概要设计书编写**  
 
 2. 2017-2019年，回到西安一家B2B电商创业公司研发组：  
 - **佰采网-建工行业一站式服务平台。**  
 个人中心模块，库存管理模块，采购管理模块，财务管理模块，审批管理模块  
-相关技术：springBoot,maven,SSM 框架+swagger ui,html,js   
+**相关技术**：springBoot,maven,SSM 框架+swagger ui,html,js   
 - **商城后台管理系统（2018-2019）**   
 审核管理模块,订单管理模块,客户管理,商品管理  
-相关技术：springBoot,maven,SSM 框架,swagger ui,vue,element.js,node.js  
+**相关技术**：springBoot,maven,SSM 框架,swagger ui,vue,element.js,node.js  
 
 3. 2019.03-至今,北京优炫软件-数据据库产品研发部java组  
 - **数据库文件系统（UXFS）相关功能开发**  
@@ -53,13 +53,13 @@
    UXDB 中移动-分布式自主可控数据库及工具入围测试及部署（主要事迹：西安十台服务器搭建 mpp 集群，性能调优及网络测试,总结很多性能提升的可能遇到的问题）  
 - **国防科大/信创项目相关支持**
    oracle 数据库大对象存储 jdbc 层适配,国产操作系统适,jdbc 层实现事务高运转/低运转切换过滤等  
-相关技术：mycat，druid,sharding jdbc，linux调优
+**相关技术**：mycat，druid,sharding jdbc，linux调优
 - **信创产品入围支持**
    UXDB 分布式数据库产品入围性能测试支持（mpp 场景）及调优。(六台机器集群，tpcc测试tpmc 600 万)
    UXDB 数据库产品高可用方案调研及相关文档编写。  
- 相关技术：pgpool+postgre+citus SQL 方案,postgre SQL,pgautofailover,keepalived,citus方案  
+ **相关技术**：pgpool+postgre+citus SQL 方案,postgre SQL,pgautofailover,keepalived,citus方案  
    UXDB 数据库 docker 镜像制作,搭建 docker 镜像私服,及自动化部署脚。  
- 相关技术：docker,dockerfile,docker compose,docker harbor镜像仓库
+ **相关技术**：docker,dockerfile,docker compose,docker harbor镜像仓库
 
   
 
